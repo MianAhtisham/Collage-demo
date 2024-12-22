@@ -1,2 +1,4 @@
 # Collage-demo
-this is my first repository
+<br>
+this is my first repository.
+Aurthor - Ahtisham
